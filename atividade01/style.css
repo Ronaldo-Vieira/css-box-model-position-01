@@ -1,0 +1,25 @@
+.marg-pad{
+    margin: 5px;
+    padding: 10px;
+}
+#img-0{
+    border-radius: 3vh;
+    border: 5px solid blue;
+    width: 400px;
+}
+#img-01{
+    border: 3px dotted rgb(25, 73, 163);
+    width: 500px;
+}
+#img-02{
+    border: 2px double firebrick;
+    width: 600px;
+}
+#img-03{
+    border: 6px groove hotpink;
+    width: 700px;
+}
+#img-04{
+    border: 8px outset peru;
+    width: 800px;
+}
